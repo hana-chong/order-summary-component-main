@@ -29,7 +29,7 @@ body {
 
 .hero {
     position: relative; 
-    height: 300px; 
+    height: 250px; 
     overflow: hidden; 
 }
 
@@ -130,11 +130,11 @@ a.cancel-btn:hover {
     color:hsl(223, 47%, 23%)
 }
 
-.attribution {
+footer {
 font-size: 11px; 
 text-align: center; 
 }
-.attribution a {
+footer a {
 color: hsl(228, 45%, 44%); 
 }
 
